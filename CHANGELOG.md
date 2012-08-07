@@ -1,5 +1,9 @@
 # Changelog
 
+__v1.10.6 - xx/Aug/2012__
+
+*  Fixes problem with unusable back buttton in a certain unreleased version of iOS.
+
 __v1.10.5 - 1/Aug/2012__
 
 *  Add a workaroung for unusable back buttton in a certain unreleased version of iOS. (This is most likely a temporal iOS bug)
